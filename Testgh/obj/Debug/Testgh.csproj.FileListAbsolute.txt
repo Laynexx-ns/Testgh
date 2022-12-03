@@ -1,0 +1,8 @@
+C:\Users\Анатолий\Desktop\C#\Testgh\Testgh\bin\Debug\Testgh.exe.config
+C:\Users\Анатолий\Desktop\C#\Testgh\Testgh\bin\Debug\Testgh.exe
+C:\Users\Анатолий\Desktop\C#\Testgh\Testgh\bin\Debug\Testgh.pdb
+C:\Users\Анатолий\Desktop\C#\Testgh\Testgh\obj\Debug\Testgh.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\C#\Testgh\Testgh\obj\Debug\Testgh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анатолий\Desktop\C#\Testgh\Testgh\obj\Debug\Testgh.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\C#\Testgh\Testgh\obj\Debug\Testgh.exe
+C:\Users\Анатолий\Desktop\C#\Testgh\Testgh\obj\Debug\Testgh.pdb
